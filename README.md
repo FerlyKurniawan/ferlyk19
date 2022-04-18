@@ -1,7 +1,7 @@
 # ferlyk19 Telegram
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/FerlyKurniawan/ferlyk19)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-green)](https://GitHub.com/FerlyKurniawan/ferlyk19/graphs/commit-activity)
-[![CodeFactor](https://www.codefactor.io/repository/github/mrismanaziz/Man-Userbot/badge)](https://www.codefactor.io/repository/github/FerlyKurniawan/ferlyk19)
+[![CodeFactor](https://www.codefactor.io/repository/github/github/FerlyKurniawan/ferlyk19/badge)](https://www.codefactor.io/repository/github/FerlyKurniawan/ferlyk19)
 [![CodeQuality](https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=blue&logo=codacy)](https://app.codacy.com/organizations/gh/FerlyKurniawan/repositories)
 [![Docker Pulls](https://img.shields.io/docker/pulls/mrismanaziz/man-userbot)](https://hub.docker.com/r/mrismanaziz/man-userbot/tags)
 [![GitHub Forks](https://img.shields.io/github/forks/FerlyKurniawan/ferlyk19?&logo=github)](https://github.com/mrismanaziz/Man-Userbot/fork)
