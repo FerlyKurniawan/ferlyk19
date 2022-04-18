@@ -58,9 +58,9 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan userbot ini dengan bijak
 -  `cd FERLYK19`
 -  `pip3 install -r requirements.txt`
 -  `mv sample_config.env config.env`
--  edit config.env Anda dan isi VARS menggunakan `nano config.env` `CTRL + S ` untuk menyimpan VARS Anda, gunakan `CTRL + X` untuk keluar dan kembali ke direktori Man-Userbot
--  Buka SCRREN di VPS Anda `screen -S Man-Userbot`
--  Kemudian gunakan perintah ini untuk menyebarkan Man-Userbot `python3 -m userbot`
+-  edit config.env Anda dan isi VARS menggunakan `nano config.env` `CTRL + S ` untuk menyimpan VARS Anda, gunakan `CTRL + X` untuk keluar dan kembali ke direktori FK-Userbot
+-  Buka SCRREN di VPS Anda `screen -S FK-Userbot`
+-  Kemudian gunakan perintah ini untuk menyebarkan FK-Userbot `python3 -m userbot`
 
 </details>
 
