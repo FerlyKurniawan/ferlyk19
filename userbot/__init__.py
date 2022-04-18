@@ -4,7 +4,7 @@
 # you may not use this file except in compliance with the License.
 #
 # inline credit @keselekpermen69
-# Recode by @mrismanaziz
+# Recode by @ferlyk19
 # t.me/SharingUserbot
 #
 """ Userbot initialization. """
@@ -157,7 +157,7 @@ GITHUB_ACCESS_TOKEN = os.environ.get("GITHUB_ACCESS_TOKEN", None)
 
 # Custom (forked) repo URL for updater.
 UPSTREAM_REPO_URL = os.environ.get(
-    "UPSTREAM_REPO_URL", "https://github.com/mrismanaziz/Man-Userbot.git"
+    "UPSTREAM_REPO_URL", "https://github.com/FerlyKurniawan/ferlyk19.git"
 )
 
 # Custom Name Sticker Pack
@@ -555,12 +555,12 @@ with bot:
                     description="Repository Man - Userbot",
                     url="https://t.me/SharingUserbot",
                     thumb=InputWebDocument(INLINE_PIC, 0, "image/jpeg", []),
-                    text="**Man - UserBot**\n➖➖➖➖➖➖➖➖➖➖\n✣ **Owner Repo :** [Risman](https://t.me/mrismanaziz)\n✣ **Support :** @Lunatic0de\n✣ **Repository :** [Man-Userbot](https://github.com/mrismanaziz/Man-Userbot)\n➖➖➖➖➖➖➖➖➖➖",
+                    text="**Man - UserBot**\n➖➖➖➖➖➖➖➖➖➖\n✣ **Owner Repo :** [Risman](https://t.me/ferlyk19)\n✣ **Support :** @Lunatic0de\n✣ **Repository :** [ferlyk19](https://github.com/FerlyKurniawan/ferlyk19)\n➖➖➖➖➖➖➖➖➖➖",
                     buttons=[
                         [
-                            custom.Button.url("ɢʀᴏᴜᴘ", "https://t.me/SharingUserbot"),
+                            custom.Button.url("ɢʀᴏᴜᴘ", "https://t.me/alivesholarssociety"),
                             custom.Button.url(
-                                "ʀᴇᴘᴏ", "https://github.com/mrismanaziz/Man-Userbot"
+                                "ʀᴇᴘᴏ", "https://github.com/FerlyKurniawan/ferlyk19"
                             ),
                         ],
                     ],
@@ -600,16 +600,16 @@ with bot:
                 )
             else:
                 result = builder.article(
-                    title="✗ Man-Userbot ✗",
-                    description="Man - UserBot | Telethon",
-                    url="https://t.me/SharingUserbot",
+                    title="✗ ferlyk19 ✗",
+                    description="ferlyk19 | Telethon",
+                    url="https://t.me/alivesholarssociety",
                     thumb=InputWebDocument(INLINE_PIC, 0, "image/jpeg", []),
                     text=f"**Man - UserBot**\n➖➖➖➖➖➖➖➖➖➖\n✣ **UserMode:** [{user.first_name}](tg://user?id={user.id})\n✣ **Assistant:** {tgbotusername}\n➖➖➖➖➖➖➖➖➖➖\n**Support:** @Lunatic0de\n➖➖➖➖➖➖➖➖➖➖",
                     buttons=[
                         [
-                            custom.Button.url("ɢʀᴏᴜᴘ", "https://t.me/SharingUserbot"),
+                            custom.Button.url("ɢʀᴏᴜᴘ", "https://t.me/alivesholarssociety"),
                             custom.Button.url(
-                                "ʀᴇᴘᴏ", "https://github.com/mrismanaziz/Man-Userbot"
+                                "ʀᴇᴘᴏ", "https://github.com/FerlyKurniawan/ferlyk19"
                             ),
                         ],
                     ],
