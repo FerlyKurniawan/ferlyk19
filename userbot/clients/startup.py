@@ -1,8 +1,8 @@
-# Man - UserBot
-# Copyright (c) 2022 Man-Userbot
-# Credits: @mrismanaziz || https://github.com/mrismanaziz
+# ferlyk19
+# Copyright (c) 2022 ferlyk19
+# Credits: @FerlyKurniawan || https://github.com/FerlyKurniawan
 #
-# This file is a part of < https://github.com/mrismanaziz/Man-Userbot/ >
+# This file is a part of < https://github.com/FerlyKurniawan/FerlyKurniawan/ >
 # t.me/SharingUserbot & t.me/Lunatic0de
 
 import sys
@@ -32,8 +32,8 @@ from userbot import (
 )
 from userbot.modules.gcast import GCAST_BLACKLIST as GBL
 
-EOL = "EOL\nMan-UserBot v{}, Copyright © 2021-2022 ʀɪsᴍᴀɴ• <https://github.com/mrismanaziz>"
-MSG_BLACKLIST = "MAKANYA GA USAH BERTINGKAH GOBLOK, USERBOT {} GUA MATIIN NAJIS BANGET DIPAKE JAMET KEK LU.\nMan-UserBot v{}, Copyright © 2021-2022 ʀɪsᴍᴀɴ• <https://github.com/mrismanaziz>"
+EOL = "EOL\nferlyk19 v{}, Copyright © 2021-2022 ferlykurniawan• <https://github.com/FerlyKurniawan>"
+MSG_BLACKLIST = "MAKANYA GA USAH BERTINGKAH GOBLOK, USERBOT {} GUA MATIIN NAJIS BANGET DIPAKE JAMET KEK LU.\nferlyk19 v{}, Copyright © 2021-2022 ferlykurniawan• <https://github.com/FerlyKurniawan>"
 
 
 async def man_client(client):
