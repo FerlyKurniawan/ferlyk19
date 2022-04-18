@@ -1,6 +1,6 @@
 {
-  "name": "Man-Userbot",
-  "description": "[Man-Userbot] userbot Telegram modular yang berjalan pada Python 3.9+",
+  "name": "FK-Userbot",
+  "description": "[FK-Userbot] userbot Telegram modular yang berjalan pada Python 3.9+",
   "stack": "container",
   "env": {
     "API_KEY": {
