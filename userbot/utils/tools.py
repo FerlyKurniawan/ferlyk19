@@ -14,8 +14,8 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #
-# Recode by @mrismanaziz
-# FROM Man-Userbot <https://github.com/mrismanaziz/Man-Userbot>
+# Recode by @ferlyk19
+# FROM ferlyk19 <https://github.com/FerlyKurniawan/ferlyk19>
 # t.me/SharingUserbot & t.me/Lunatic0de
 #
 
