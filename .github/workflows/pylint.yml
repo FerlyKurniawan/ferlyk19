@@ -30,9 +30,9 @@ jobs:
           PASSPHRASE: ${{ secrets.PASSPHRASE }}
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: 'Man-Userbot: auto fixes'
+          commit_message: 'ferlyk19: auto fixes'
           commit_options: '--no-verify --signoff'
           repository: .
           commit_user_name: FerlyKurniawan
           commit_user_email: ferlyk04@gmail.com
-          commit_author: FerlyKurniawan <mrismanaziz@gmail.com>
+          commit_author: FerlyKurniawan <ferlyk04@gmail.com>
