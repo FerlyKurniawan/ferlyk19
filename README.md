@@ -25,7 +25,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan userbot ini dengan bijak
 
 -  [Panduan Cara Memasang FK-Userbot](https://mrismanaziz.medium.com/cara-memasang-userbot-telegram-repo-man-userbot-deploy-di-heroku-c56d1f8b5537)
 -  [Cara Setting Last.FM modules](https://telegra.ph/How-to-set-up-LastFM-module-for-Paperplane-userbot-11-02)
--  [List Variabel FK-Userbot](https://telegra.ph/List-Variabel-Heroku-untuk-FK-Userbot-09-22)
+-  [List Variabel FK-Userbot](https://telegra.ph/List-Variabel-Heroku-untuk-ferlyk19-09-22)
 
 <details>
 <summary><b>🔗 String Session</b></summary>
