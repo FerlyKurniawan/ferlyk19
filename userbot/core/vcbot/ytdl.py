@@ -1,8 +1,8 @@
-# Man - UserBot
-# Copyright (c) 2022 Man-Userbot
-# Credits: @mrismanaziz || https://github.com/mrismanaziz
+# ferlyk19
+# Copyright (c) 2022 ferlyk19
+# Credits: @FerlyKurniawan || https://github.com/FerlyKurniawan
 #
-# This file is a part of < https://github.com/mrismanaziz/Man-Userbot/ >
+# This file is a part of < https://github.com/FerlyKurniawan/ferlyk19/ >
 # t.me/SharingUserbot & t.me/Lunatic0de
 
 from youtubesearchpython import VideosSearch
