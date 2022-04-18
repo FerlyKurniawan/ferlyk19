@@ -88,4 +88,4 @@ Follow Channel [@Lunatic0de](https://t.me/Lunatic0de) untuk info Update bot dan 
 -  [Ferly Kurniawan](https://github.com/FerlyKurniawan) for [FK-userbot](https://github.com/FerlyKurniawan/ferlyk19)
 
 ## License
-Licensed under [Raphielscape Public License](https://github.com/FerlyKurniawan/ferlyk19/blob/ferlyk19/LICENSE) - Version 1.d, February 2020
+Licensed under [Raphielscape Public License](https://github.com/FerlyKurniawan/ferlyk19/blob/FK-Userbot/LICENSE) - Version 1.d, February 2020
