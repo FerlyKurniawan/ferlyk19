@@ -1,5 +1,5 @@
-# Credits: @mrismanaziz
-# FROM Man-Userbot <https://github.com/mrismanaziz/Man-Userbot>
+# Credits: @ferlyk19
+# FROM ferlyk19 <https://github.com/FerlyKurniawan/ferlyk19>
 # t.me/SharingUserbot & t.me/Lunatic0de
 
 import asyncio
