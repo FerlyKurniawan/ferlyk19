@@ -1,2 +1,2 @@
-# Extra Resources for Man-Userbot
-Repository [Man-Userbot](https://github.com/mrismanaziz/Man-Userbot)
+# Extra Resources for ferlyk19
+Repository [ferlyk19](https://github.com/FerlyKurniawan/ferlyk19)
