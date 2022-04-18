@@ -5,7 +5,7 @@
 #
 # inline credit @keselekpermen69
 # Recode by @ferlyk19
-# t.me/SharingUserbot
+# t.me/alivesholarssociety
 #
 """ Userbot initialization. """
 
