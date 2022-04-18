@@ -3,7 +3,7 @@
 # Copyright (C) 2022 ferlyk19
 #
 # This file is a part of < https://github.com/FerlyKurniawan/ferlyk19/ >
-# PLease read the GNU Affero General Public License in <https://www.github.com/FerlyKurniawan/ferlyk19/blob/main/LICENSE/>
+# PLease read the GNU Affero General Public License in <https://www.github.com/FerlyKurniawan/ferlyk19/blob/FK-Userbot/LICENSE/>
 
 clear
 sec=3
