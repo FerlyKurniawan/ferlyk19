@@ -5,8 +5,8 @@
 # PLease read the GNU Affero General Public License in
 # <https://www.github.com/TeamUltroid/pyUltroid/blob/main/LICENSE/>.
 #
-# Ported by @mrismanaziz
-# FROM Man-Userbot <https://github.com/mrismanaziz/Man-Userbot>
+# Ported by @ferlyk19
+# FROM ferlyk19 <https://github.com/FerlyKurniawan/ferlyk19>
 # t.me/SharingUserbot & t.me/Lunatic0de
 
 import base64
