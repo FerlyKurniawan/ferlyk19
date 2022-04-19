@@ -1,3 +1,3 @@
-FROM hub.docker.com/repositoryferlykurniawan/ferlyk19:tagname
+FROM mrismanaziz/man-userbot:slim buster
 
 CMD [ "bash", "start" ]
