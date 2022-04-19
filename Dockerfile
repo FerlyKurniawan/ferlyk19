@@ -1,3 +1,3 @@
-FROM github.com/FerlyKurniawan/ferlyk19/edit/FK-Userbot/Dockerfile
+FROM ferlykurniawan/ferlyk19:tagname
 
 CMD [ "bash", "start" ]
