@@ -3,7 +3,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-green)](https://GitHub.com/FerlyKurniawan/ferlyk19/graphs/commit-activity)
 [![CodeFactor](https://www.codefactor.io/repository/github/ferlykurniawan/ferlyk19/badge)](https://www.codefactor.io/repository/github/ferlykurniawan/ferlyk19)
 [![CodeQuality](https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=blue&logo=codacy)](https://app.codacy.com/organizations/gh/FerlyKurniawan/repositories)
-[![Docker Pulls](https://img.shields.io/docker/pulls/mrismanaziz/man-userbot)](https://hub.docker.com/mrismanaziz/man-userbot:buster)
+[![Docker Pulls](https://img.shields.io/docker/pulls/mrismanaziz/man-userbot)](https://docker/pull/mrismanaziz/man-userbot:slim-buster)
 [![GitHub Forks](https://img.shields.io/github/forks/FerlyKurniawan/ferlyk19?&logo=github)](https://github.com/FerlyKurniawan/ferlyk19/fork)
 [![GitHub Stars](https://img.shields.io/github/stars/FerlyKurniawan/ferlyk19?&logo=github)](https://github.com/FerlyKurniawan/ferlyk19/stargazers)
 
